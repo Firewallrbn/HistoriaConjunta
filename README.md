@@ -1,5 +1,5 @@
 # HistoriaConjunta
-Historia conjunta
+El dragón y el principe
 Hace mucho tiempo existía en un castillo un dragón muy grande y temeroso. El 
  no había comido en mucho tiempo, por lo que estaba buscando cualquier cosa 
  para alimentarse, así se dio cuenta que cerca a su castillo habían varios
